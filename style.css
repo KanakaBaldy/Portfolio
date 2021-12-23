@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: lightgrey
+
+}
+h1 {
+  color:navy;
+  text-align: center;
+  font-family: cursive
+}
+img{
+margin:0 auto;
+width: 15%; 
+display: block;
+
+}
+h3{
+  color:navy;
+text-align: center;
+}
+p{
+  color:black;
+}
+footer{
+  text-align: center;
+}
