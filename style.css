@@ -2,31 +2,42 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   background: lightgrey;
   height: 100%;
-}
 
+
+/* here I have my name a little larger, centered and in an easiliy readable font */
+}
 h1 {
   color:navy;
   text-align: center;
-  font-family: cursive
+  font-family: Arial, Helvetica, sans-serif
  
+ /* here my images are not too large but future employers will be able to see my face and where I live, clearly  */
 }
-
 img{
 margin:0 auto;
 width: 45%; 
 display: block;
-}
 
+/* here I am making my heading an eye pleaseing color to capture attention of the reader */
+}
 h3{
   color:navy;
 text-align: center;
-padding: 0%
+padding: 0%;
 }
+
+h2{
+  color: navy;
+  text-align: center;
+  padding: 0%;
+}
+
 p{
   color:black;
   font-size: 12pt
 }
 
+/* Here my links will change colors as they are clicked on */
 a:link {
   color: blue;
 }
