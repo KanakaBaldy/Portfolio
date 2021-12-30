@@ -2,22 +2,21 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   background: lightgrey;
   height: 100%;
-
-
-
 }
+
 h1 {
   color:navy;
   text-align: center;
   font-family: cursive
  
 }
+
 img{
 margin:0 auto;
 width: 45%; 
 display: block;
-
 }
+
 h3{
   color:navy;
 text-align: center;
@@ -26,10 +25,20 @@ padding: 0%
 p{
   color:black;
   font-size: 12pt
- 
-  
-    
 }
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color:purple;
+}
+
+a:active{
+  color: green
+}
+    
 footer{
   text-align: center;
 }
