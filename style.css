@@ -1,6 +1,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background: lightgrey
+  background: lightgrey;
+  height: 100%;
 
 
 
@@ -25,7 +26,9 @@ padding: 0%
 p{
   color:black;
   font-size: 12pt
+ 
   
+    
 }
 footer{
   text-align: center;
